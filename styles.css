@@ -11,7 +11,8 @@ h1 {
 
 }
 
-.play, h5 {
+.play,
+h5 {
   color: #DBEDF3;
   font-family: sans-serif;
 }
