@@ -1,0 +1,11 @@
+{
+  "name": "drum-kit",
+  "version": "1.0.0",
+  "description": "- This drum Kit was created while completing a section on Dr. Yu's The Complete 2023 Web Development Bootcamp. It incorporated HTML, CSS, and JavaScript.\r - Using the starting files, I was able to learn and add Event Listeners to buttons, learn about higher order functions, pass functions as arguments, JavaScript Objects, and apply sounds and animations on the website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicole Payne",
+  "license": "ISC"
+}
